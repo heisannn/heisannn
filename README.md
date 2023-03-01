@@ -1,2 +1,11 @@
-[![heisannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisannn&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heisannn&count_private=true&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there
+
+<!--
+**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+- 🔭 I'm currently working on some stuff.
+- 🌱 I’m currently a student.
+- 🤔 I'm looking for a web designer.
+- 📫 How to reach me: nakamura#3826
+- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
