@@ -6,6 +6,4 @@
 
 - 🔭 I'm currently working on some stuff.
 - 🌱 I’m currently a student.
-- 🤔 I'm looking for a web designer.
-- 📫 How to reach me: nakamura#3826
-- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
+- 📫 How to reach me: nothing is here.
