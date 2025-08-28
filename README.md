@@ -3,8 +3,27 @@
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🧑‍💻 I'm a university student majoring in information engineering.
-- 🌱 I’m currently learning **Rust Programming Language**
-- 📫 How to reach me: nothing is here.
 
-![Top Langs](https://github-readme-stats-git-main-heisannns-projects.vercel.app/api/top-langs/?username=heisannn&hide=C%23%2CC%2B%2B%2CLua%2CC%2CRich%20Text%20Format%2C%20Smalltalk&layout=compact&theme=dark#gh-dark-mode-only)
+- 🧑‍💻 I'm a university student majoring in information engineering.
+- 🌱 I’m currently learning Software Architecture.
+- 📫 How to reach me: X @_heisannn
+
+## Environment
+
+<div>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/hyprland" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/fishshell" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/neovim" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/docker" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/proxmox" />
+</div>
+
+## Skills
+
+<h3>Web</h3>
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,nodejs,sass,tailwind" />
+  </a>
+</div>
